@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CppOopSmartPointersProject/CppOopSmartPointersProject.vcxproj" Id="64dbd539-e85f-4f46-932a-8ead5eaf9abb" />
+</Solution>
